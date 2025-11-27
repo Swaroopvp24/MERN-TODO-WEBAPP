@@ -130,6 +130,6 @@ Feel free to **fork** this repository and submit a **pull request** with improve
 
 ## 📜 License
 
-This project is intended for **educational purposes**.
+This project is licensed with MIT License.
 
 ---
